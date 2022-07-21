@@ -1,0 +1,5 @@
+Socket mantem uma conexão permanente com o servidor
+
+Com o socket, precisa ter uma aplicação funcionando dos dois lados (um mini sisteminha), tanto lado server quanto client
+
+No socket tem o listener e o emmit, os dois lados tem os listener e os emmits (só pensar um pouco oq eles fazem)
